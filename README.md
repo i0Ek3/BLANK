@@ -10,11 +10,13 @@
 
 ## Books
 
-* [精力管理](https://github.com/i0Ek3/BLANK/blob/master/2018/201808.md#%E7%B2%BE%E5%8A%9B%E7%AE%A1%E7%90%86)
+* [精力管理](https://github.com/i0Ek3/BLANK/blob/master/2018/2018-08-notes.md)
 * [进化心理学]()
 
 
-## 
+## Name
+
+关于笔记的命名规则，参阅[how-to-name.md](https://github.com/i0Ek3/BLANK/blob/master/how-to-name.md).
 
 
 
