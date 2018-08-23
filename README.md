@@ -12,7 +12,7 @@
 
 ### Part1-!Tech
 
-* [精力管理](https://github.com/i0Ek3/BLANK/blob/master/2018/2018-08-notes.md)
+* [精力管理]()
 * [进化心理学]()
 
 
