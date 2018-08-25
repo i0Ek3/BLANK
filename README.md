@@ -10,6 +10,8 @@
 
 ## Books
 
+这里推荐阅读编程随想的[《如何阅读一本书》(需fq)](https://program-think.blogspot.com/2013/04/how-to-read-book.html)。
+
 ### Part1-!Tech
 
 * [精力管理]()
