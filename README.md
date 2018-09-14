@@ -12,16 +12,16 @@
 
 这里推荐阅读编程随想的[《如何阅读一本书》(需fq)](https://program-think.blogspot.com/2013/04/how-to-read-book.html)。
 
-### Part1-!Tech
+### Part1
 
 * 精力管理
 * 进化心理学
 * 影响力
 * 读书与做人
-* 如何阅读一本书
+* 如何阅读一本书 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.pdf)
 
 
-### Part2-Tech
+### [Part2](https://github.com/i0Ek3/BLANK/tree/master/tech-books)
 
 * 图解HTTP
 * 图解TCP/IP
