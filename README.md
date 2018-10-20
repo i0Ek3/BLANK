@@ -32,6 +32,7 @@
 * 图说设计模式
 * 高速上手C++ 11 14 17
 * The Way To Go
+* Cpp Concurrency In Action
 
 ## Name Rule
 
