@@ -21,6 +21,8 @@
 * 读书与做人
 * 如何阅读一本书 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.pdf)
 * 少有人走的路 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF.pdf?1538367315288)
+* 人类简史 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2.pdf)
+
 
 
 ### [Part2](https://github.com/i0Ek3/BLANK/tree/master/tech-books)
