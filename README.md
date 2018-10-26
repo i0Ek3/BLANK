@@ -13,6 +13,7 @@
 
 这里推荐阅读编程随想的[《如何阅读一本书》(需fq)](https://program-think.blogspot.com/2013/04/how-to-read-book.html)。
 
+
 ### Part1
 
 * 精力管理
@@ -35,6 +36,10 @@
 * 高速上手C++ 11 14 17
 * The Way To Go
 * Cpp Concurrency In Action
+* C++17 STL Cook book
+
+
+
 
 ## Name Rule
 
