@@ -37,6 +37,7 @@
 * The Way To Go
 * Cpp Concurrency In Action
 * C++17 STL Cook book
+* LaTex入门
 
 
 
