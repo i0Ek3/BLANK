@@ -38,7 +38,6 @@
 * Cpp Concurrency In Action
 * C++17 STL Cook book
 * LaTex入门
-* 机器学习笔记
 
 
 
