@@ -28,6 +28,8 @@
 
 ### [Part2](https://github.com/i0Ek3/BLANK/tree/master/tech-books)
 
+> 引用[一个合格的程序员应该读过哪些书](https://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)
+
 * 图解HTTP
 * 图解TCP/IP
 * MySQL必知必会
