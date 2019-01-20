@@ -11,7 +11,7 @@
 
 ## Books
 
-这里推荐阅读编程随想的[《如何阅读一本书》(需fq)](https://program-think.blogspot.com/2013/04/how-to-read-book.html)。
+这里推荐阅读编程随想推荐的[《如何阅读一本书》(需fq)](https://program-think.blogspot.com/2013/04/how-to-read-book.html)。
 
 
 ### Part1
@@ -40,6 +40,7 @@
 * Cpp Concurrency In Action
 * C++17 STL Cook book
 * LaTex入门
+* 大型网站技术架构
 
 
 
