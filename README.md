@@ -1,5 +1,6 @@
 # BLANK
 
+*明天就大年三十了，提前祝大家新年快乐，心想事成，过年也别忘了读书呦！*
 
 人之初，一如水之清澈透明。所谓BLANK，正是此意。借由书籍，净化心灵，提升修养。
 
@@ -11,10 +12,11 @@
 
 ## Books
 
-这里推荐阅读编程随想推荐的[《如何阅读一本书》(需fq)](https://program-think.blogspot.com/2013/04/how-to-read-book.html)。
+书籍主要以两部分组成，技术书籍和非技术书籍，部分对应的书籍你可以在tech-books和non-tech文件夹下找到，欢迎阅读和反馈。
 
+### Part1 --> [non-tech](#./non-tech/)
 
-### Part1
+> 这里推荐阅读编程随想推荐的[《如何阅读一本书》(需fq)](https://program-think.blogspot.com/2013/04/how-to-read-book.html)。
 
 * 精力管理
 * 进化心理学
@@ -23,10 +25,10 @@
 * 如何阅读一本书 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.pdf)
 * 少有人走的路 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF.pdf?1538367315288)
 * 人类简史 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2.pdf)
+* 尽管去做-无压工作的艺术 [pdf](#./non-tech/尽管去做—无压工作的艺术.pdf)
 
 
-
-### [Part2](https://github.com/i0Ek3/BLANK/tree/master/tech-books)
+### Part2 --> [tech-books](#./tech-books/)
 
 > 引用[一个合格的程序员应该读过哪些书](https://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)
 
