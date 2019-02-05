@@ -32,6 +32,8 @@
 
 > 引用[一个合格的程序员应该读过哪些书](https://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)
 
+当然，下面的大部分书籍是自己读过的，除了一些工具书我们用来查阅即可，无需细读，比如* LaTeX 入门*和* Vim 实用技巧*。
+
 * 图解HTTP
 * 图解TCP/IP
 * MySQL必知必会
@@ -48,6 +50,7 @@
 * LaTex入门
 * Vim实用技巧
 * Effective C++
+* 区块链技术指南
 
 
 ## Name Rule
