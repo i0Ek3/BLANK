@@ -26,13 +26,15 @@
 * 少有人走的路 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF.pdf?1538367315288)
 * 人类简史 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2.pdf)
 * 尽管去做-无压工作的艺术 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/尽管去做—无压工作的艺术.pdf)
+* 黑客与画家 [pdf]()
+* 人月神话 [pdf]()
 
 
 ### Part2 --> [tech-books](https://github.com/i0Ek3/BLANK/tree/master/tech-books)
 
 > 引用[一个合格的程序员应该读过哪些书](https://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)
 
-当然，下面的大部分书籍是自己读过的，除了一些工具书我们用来查阅即可，无需细读，比如* LaTeX 入门*和* Vim 实用技巧*。
+当然，下面的大部分书籍是自己读过的，有一些还是很经典的。还有一些工具书我们用来查阅即可，无需细读，比如 LaTeX 入门 和 Vim 实用技巧。
 
 * 图解HTTP
 * 图解TCP/IP
