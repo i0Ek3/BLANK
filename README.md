@@ -32,27 +32,28 @@
 
 ### Part2 --> [tech-books](https://github.com/i0Ek3/BLANK/tree/master/tech-books)
 
-> 引用[一个合格的程序员应该读过哪些书](https://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)
+> 引用[一个合格的程序员应该读过哪些书](https://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)，当然你也可以参考[这里](http://lucida.me/blog/developer-reading-list/)。
 
 当然，下面的大部分书籍是自己读过的，有一些还是很经典的。还有一些工具书我们用来查阅即可，无需细读，比如 LaTeX 入门 和 Vim 实用技巧。
 
-* 图解HTTP
-* 图解TCP/IP
-* MySQL必知必会
-* SQL必知必会
+* 图解 HTTP
+* 图解 TCP/IP
+* MySQL 必知必会
+* SQL 必知必会
 * 网络是怎样连接的
 * 图说设计模式
-* 高速上手C++ 11 14 17
+* 高速上手 C++ 11 14 17
 * The Way To Go
 * Cpp Concurrency In Action
 * C++17 STL Cook book
 * 大型网站技术架构
 * Docker 从入门到实践
 * 正则表达式必知必会
-* LaTex入门
-* Vim实用技巧
+* LaTex 入门
+* Vim 实用技巧
 * Effective C++
 * 区块链技术指南
+* STL 源码解析
 
 
 ## Name Rule
