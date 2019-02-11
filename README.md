@@ -12,11 +12,13 @@
 
 ## Books
 
-书籍主要以两部分组成，技术书籍和非技术书籍，部分对应的书籍你可以在tech-books和non-tech文件夹下找到，欢迎阅读和反馈。
+书籍主要以两部分组成，技术书籍和非技术书籍。你可以在tech-books文件夹下找到我列出的所有技术书籍；在non-tech文件夹下你只能找到部分书籍。欢迎阅读和反馈补充。
+
+对于阅读书籍而言，是要讲究方式和方法的。这里推荐阅读编程随想推荐的[《如何阅读一本书》(需fq)](https://program-think.blogspot.com/2013/04/how-to-read-book.html)。当然，你也可以阅读本项目提供的电子版。
+
+好书要慢慢读，千万别着急。
 
 ### Part1 --> [non-tech](https://github.com/i0Ek3/BLANK/tree/master/non-tech)
-
-> 这里推荐阅读编程随想推荐的[《如何阅读一本书》(需fq)](https://program-think.blogspot.com/2013/04/how-to-read-book.html)。
 
 * 精力管理
 * 进化心理学
@@ -32,9 +34,7 @@
 
 ### Part2 --> [tech-books](https://github.com/i0Ek3/BLANK/tree/master/tech-books)
 
-> 引用[一个合格的程序员应该读过哪些书](https://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)，当然你也可以参考[这里](http://lucida.me/blog/developer-reading-list/)。
-
-当然，下面的大部分书籍是自己读过的，有一些还是很经典的。还有一些工具书我们用来查阅即可，无需细读，比如 LaTeX 入门 和 Vim 实用技巧。
+> 对于程序员来说，读一些好的技术书籍是非常必要的。这里引用[一个合格的程序员应该读过哪些书](https://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)，感谢原作者的辛苦付出。当然你也可以参考[这里](http://lucida.me/blog/developer-reading-list/)。另外，下面的大部分书籍是本人自己读过的，有一些还是很经典的，可以重复品读。还有一些类似工具书的我们用来查阅即可，无需细读，比如 LaTeX 入门 和 Vim 实用技巧。
 
 * 图解 HTTP
 * 图解 TCP/IP
@@ -54,6 +54,10 @@
 * Effective C++
 * 区块链技术指南
 * STL 源码解析
+
+
+
+
 
 
 ## Name Rule
