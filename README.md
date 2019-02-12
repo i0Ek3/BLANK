@@ -50,11 +50,15 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ps: 最近遇到一个问题，就是无法直接 git push 大于50 MB 的文件，后找到解决办法，使用 git-lfs 来解决的，具体请看[我的记录](https://github.com/i0Ek3/GotIssue/blob/master/github.md)，不过目前仍有些问题没弄明白，因为有三本大于100 MB 的电子书死活上传不上来，我继续研究看看。
 =======
 ps: 最近遇到一个问题，就是无法直接 git push 大于50 MB 的文件，后找到解决办法，使用 git-lfs 来解决的，具体请看[我的记录](https://github.com/i0Ek3/GotIssue/blob/master/github.md)。
 >>>>>>> Upload files by git-lfs
+=======
+ps: 最近遇到一个问题，就是无法直接 git push 大于50 MB 的文件，后找到解决办法，使用 git-lfs 来解决的，具体请看[我的记录](https://github.com/i0Ek3/GotIssue/blob/master/github.md)，不过目前仍有些问题没弄明白，因为有三本大于100 MB 的电子书死活上传不上来，我继续研究看看。
+>>>>>>> Update README.md
 
 
 
