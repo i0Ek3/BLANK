@@ -28,8 +28,8 @@
 * 少有人走的路 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF.pdf?1538367315288)
 * 人类简史 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2.pdf)
 * 尽管去做-无压工作的艺术 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/尽管去做—无压工作的艺术.pdf)
-* 黑客与画家 [pdf]()
-* 人月神话 [pdf]()
+* 黑客与画家 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/黑客与画家.pdf)
+* 人月神话 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/人月神话.pdf)
 
 
 ### Part2 --> [tech-books](https://github.com/i0Ek3/BLANK/tree/master/tech-books)
@@ -57,6 +57,7 @@
 
 
 
+ps: 最近遇到一个问题，就是无法直接 git push 大于50 MB 的文件，后找到解决办法，使用 git-lfs 来解决的，具体请看[我的记录](https://github.com/i0Ek3/GotIssue/blob/master/github.md)，不过目前仍有些问题没弄明白，因为有三本大于100 MB 的电子书死活上传不上来，我继续研究看看。
 
 
 
