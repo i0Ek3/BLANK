@@ -1,12 +1,5 @@
 # BLANK
 
-**祝大家新年快乐哈!**
-
-> 不放图说不过去，所以我从twitter上偷了一张过来，感谢原作者。
-
-![](https://github.com/i0Ek3/BLANK/blob/master/images/pig.jpg)
-
-
 人之初，一如水之清澈透明。所谓BLANK，正是此意。借由书籍，净化心灵，提升修养。
 
 
