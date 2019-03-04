@@ -50,6 +50,8 @@ Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
 * 区块链技术指南
 * STL 源码解析
 * 算法导论
+* Redis 设计与实现
+
 
 
 ## Name Rule
