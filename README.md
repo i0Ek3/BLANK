@@ -1,5 +1,7 @@
 # BLANK
 
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 人之初，一如水之清澈透明。所谓BLANK，正是此意。借由书籍，净化心灵，提升修养。
 
 Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
