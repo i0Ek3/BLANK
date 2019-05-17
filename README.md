@@ -27,7 +27,7 @@ Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
 * 黑客与画家 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/黑客与画家.pdf)
 * 人月神话 [pdf](https://github.com/i0Ek3/BLANK/blob/master/non-tech/人月神话.pdf)
 * [番茄工作法图解](https://www.academia.edu/8290558/_番茄工作法图解.简单易行的时间管理方法_)
-
+* [提问的智慧](https://hacpai.com/article/1536377163156)
 
 ### Part2 --> [tech-books](https://github.com/i0Ek3/BLANK/tree/master/tech-books)
 
