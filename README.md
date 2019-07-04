@@ -76,6 +76,10 @@ Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
 * 高速上手 C++ 11 14 17
 * 鸟哥的 Linux 私房菜 基础篇
 * 鸟哥的 Linux 私房菜 服务器架设篇
+* 动手学深度学习
+* 机器学习实战
+* 神经网络与深度学习
+* 图解密码技术 [暂未添加，等待高质量的版本]
 
 
 ## Name Rule
@@ -83,6 +87,10 @@ Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
 关于笔记的命名规则，参阅[how-to-name.md](https://github.com/i0Ek3/BLANK/blob/master/how-to-name.md).
 
 
+## License
 
+> NO LICENSE YET!
+
+本项目的目的是为了传播知识，分享大师们的智慧。书籍均整理自网络，如有侵权，请告知删除。
 
 
