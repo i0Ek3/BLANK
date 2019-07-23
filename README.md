@@ -34,35 +34,34 @@ Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
 > 对于程序员来说，读一些好的技术书籍是非常必要的。这里引用[一个合格的程序员应该读过哪些书](https://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)，感谢原作者的辛苦付出。当然你也可以参考[这里](http://lucida.me/blog/developer-reading-list/)。另外，下面的大部分书籍是本人自己读过的，有一些还是很经典的，可以重复品读。还有一些类似工具书的我们用来查阅即可，无需细读，比如 LaTeX 入门 和 Vim 实用技巧。
 
 * C++ Primer
-* C++17 STL Cook book
+* C++17 STL手册
 * C++ 沉思录
-* Cpp Concurrency In Action
+* C++ 并发实践
 * Docker 从入门到实践
 * Effective C++
 * Effective STL
 * HTTP 权威指南
 * LaTex 入门
-* LeetCode 题解(Cpp)
 * Linux 高性能服务器编程
 * More Effective C++
 * MySQL 必知必会
 * Redis 设计与实现
-* SQL 必知必会(5e)
+* SQL 必知必会
 * STL 源码解析
-* UNIX 环境高级编程(zh)
-* UNIX 环境高级编程(en)
+* UNIX 环境高级编程
 * Unix-Linux 编程实践教程
 * Vim 实用技巧
 * 剑指 offer
 * 区块链技术指南
 * 图解 HTTP
-* 图解 TCP/IP(5e)
+* 图解 TCP/IP
 * 图解设计模式
+* 图解密码技术
 * 大型网站技术架构
 * 大规模分布式存储系统：原理解析与架构实战
 * 数学之美
 * 正则表达式必知必会
-* 汇编语言(3e 王爽)
+* 汇编语言
 * 现代编译原理(C)
 * 程序员代码面试指南 IT 名企算法与数据结构题目
 * 程序员的数学 1
@@ -72,14 +71,12 @@ Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
 * 算法导论
 * 网站安全攻防秘笈
 * 网络是怎样连接的
-* 高性能 MySQL(3e)
-* 高速上手 C++ 11 14 17
+* 高性能 MySQL
 * 鸟哥的 Linux 私房菜 基础篇
 * 鸟哥的 Linux 私房菜 服务器架设篇
 * 动手学深度学习
 * 机器学习实战
 * 神经网络与深度学习
-* 图解密码技术
 
 
 ## Name Rule
