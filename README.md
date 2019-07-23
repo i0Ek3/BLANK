@@ -1,6 +1,18 @@
 # BLANK
 
-**说明：由于 LFS 的原因，技术书籍暂且无法正常浏览，大家可以先去下面的镜像地址浏览下载我最新上传的书籍，稍后再回来检查该仓库。**
+<b><details><summary>关于书籍无法浏览、下载的说明！</summary></b>
+
+由于之前配置 LFS 的原因，技术书籍暂且无法正常浏览，大家可以先去下面的镜像地址浏览下载我最新上传的书籍，稍后再回来检查该仓库。
+
+但是很抱歉，刚才重新配置了 LFS，但是它告诉我我的带宽配额超限了，所以只能下个月重新上传了！WTF?
+
+![](https://github.com/i0Ek3/BLANK/blob/master/images/overdata.png)
+
+![](https://github.com/i0Ek3/BLANK/blob/master/images/quota.png)
+
+</details>
+
+
 
 人之初，一如水之清澈透明。所谓BLANK，正是此意。借由书籍，净化心灵，提升修养。
 
