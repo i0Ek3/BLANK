@@ -1,5 +1,7 @@
 # BLANK
 
+**说明：由于 LFS 的原因，技术书籍暂且无法正常浏览，大家可以先去下面的镜像地址浏览下载我最新上传的书籍，稍后再回来检查该仓库。**
+
 人之初，一如水之清澈透明。所谓BLANK，正是此意。借由书籍，净化心灵，提升修养。
 
 Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
@@ -31,14 +33,13 @@ Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
 
 > 对于程序员来说，读一些好的技术书籍是非常必要的。这里引用[一个合格的程序员应该读过哪些书](https://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)，感谢原作者的辛苦付出。当然你也可以参考[这里](http://lucida.me/blog/developer-reading-list/)。另外，下面的大部分书籍是本人自己读过的，有一些还是很经典的，可以重复品读。还有一些类似工具书的我们用来查阅即可，无需细读，比如 LaTeX 入门 和 Vim 实用技巧。
 
-* C++ Primer(5e en)
+* C++ Primer
 * C++17 STL Cook book
 * C++ 沉思录
 * Cpp Concurrency In Action
 * Docker 从入门到实践
 * Effective C++
 * Effective STL
-* GitHub 入门与实践
 * HTTP 权威指南
 * LaTex 入门
 * LeetCode 题解(Cpp)
@@ -48,7 +49,6 @@ Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
 * Redis 设计与实现
 * SQL 必知必会(5e)
 * STL 源码解析
-* The Way To Go
 * UNIX 环境高级编程(zh)
 * UNIX 环境高级编程(en)
 * Unix-Linux 编程实践教程
@@ -69,7 +69,7 @@ Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
 * 程序员的数学 2
 * 程序员的数学 3
 * 程序员面试金典
-* 算法导论(3e en)
+* 算法导论
 * 网站安全攻防秘笈
 * 网络是怎样连接的
 * 高性能 MySQL(3e)
@@ -79,7 +79,7 @@ Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
 * 动手学深度学习
 * 机器学习实战
 * 神经网络与深度学习
-* 图解密码技术 [暂未添加，等待高质量的版本]
+* 图解密码技术
 
 
 ## Name Rule
