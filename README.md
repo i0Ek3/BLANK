@@ -1,6 +1,6 @@
 # BLANK
 
-为了更好滴体验读书的乐趣，本仓库的电子书项目转移到[镜像地址](https://git.angry.im/i0Ek3/blank)，日后这里只作为个人的文字更新。给大家带来的不便，请多谅解。个人以为 Gitea 的服务要比 GitHub 好很多，尤其是在大文件上传方面。祝好～！
+> 好久没更新，镜像地址出错，看来我还是得想办法将 ebook 转移到这里，尽情期待！
 
-## Mirror: [https://git.angry.im/i0Ek3/blank](https://git.angry.im/i0Ek3/blank)
+本仓库将更名为个人随想，不再更新 ebook，ebook 请看 i-ebook 仓库！
 
